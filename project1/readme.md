@@ -7,19 +7,19 @@ https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumptio
 
 Steps:
 
-1. Download the data from the link above
-2. Extract the data in a local direct
-3. Download the code from github plot1.R, plot2.R, plot3.R, plot4.R 
-4. Launch R console
+1: Download the data from the link above
+2: Extract the data in a local direct
+3: Download the code from github plot1.R, plot2.R, plot3.R, plot4.R 
+4: Launch R console
 
 The version used:
 "R version 3.1.1 (2014-07-10) -- "Sock it to Me"
 Copyright (C) 2014 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)"
 
-5. Ensure the library reshape2 is installed in your plateform
+5: Ensure the library reshape2 is installed in your plateform
 
-6. Execute in R console
+6: Execute in R console
 
 > source("plot1.R")
 
