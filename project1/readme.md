@@ -1,4 +1,4 @@
-# Project 1 in Exploratory Data Analysis - Generate 
+# Project 1 in Exploratory Data Analysis - Generate quick plots
 
 Provide code in plot1.R, plot2.R, plot3.R, plot4.R 
 to generate image plot1.png, plot2.png, plot3.png, plot4.png
