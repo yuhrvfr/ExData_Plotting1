@@ -29,7 +29,7 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)"
 
 > source("plot4.R")
 
-7. The result will popup on the R window device
+7: The result will popup on the R window device
 plot1.png, plot2.png, plot3.png, plot4.png will be created in your local directory
 
 
