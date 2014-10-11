@@ -22,8 +22,11 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)"
 6. Execute in R console
 
 > source("plot1.R")
+
 > source("plot2.R")
+
 > source("plot3.R")
+
 > source("plot4.R")
 
 7. The result will popup on the R window device
